@@ -1,5 +1,7 @@
 name := "webcrank-password"
 
+organization := "io.webcrank"
+
 scalaVersion := "2.11.8"
 
 scalacOptions ++= Seq("-Xlint", "-Ywarn-adapted-args", "-Ywarn-dead-code", "-Ywarn-inaccessible", "-Ywarn-infer-any",
